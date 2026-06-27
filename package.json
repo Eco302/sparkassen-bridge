@@ -1,0 +1,13 @@
+{
+  "name": "cyberpunk-fints-bridge",
+  "version": "1.0.0",
+  "description": "FinTS Bridge für Ostsächsische Sparkasse",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "fints": "^2.1.1"
+  }
+}
